@@ -34,9 +34,11 @@
 
 ## Observações:
 
-##### OBS: Sistema de instalação Geral para todas as versões de UBUNTU
+##### OOBS: Versão Generalizada do Ubuntu e Linux Mint (algumas outras versões derivadas do Debian provavelmente).
 
-##### OBS2: Testando para derivados de UBUNTU (Linux Mint)
+##### OBS2: Testes realizados com  Ubuntu: 16.04, 18.04 e 20.04 e Linux Mint: 18 e 20.
+
+##### OBS3: Lembre-se quando terminar de instalar tudo, feche e abra o terminal de novo para poder emular(reload .bashrs)
 
 ## INSTALAÇÃO:
 
@@ -48,7 +50,7 @@ FIM
 
 ##### OBS: NA OPÇÃO DE INSTALAÇÃO "PACOTES ESSENCIAIS" HAVERÁ "DOWNGRADE" EM BIBLIOTECAS, NO ENTANTO SERÃO ATUALIZADAS NOVAMENTE.
 
-##### OBS2: SE NÃO HOUVER INSTALAÇÃO DOS "PACOTES ESSENCIAIS", ENCONTRE-SE CORRETO PARA QUE A INSTALAÇÃO DAS DEMAIS OPÇÕES SEJA FEITA CORRETAMENTE. 
+##### OBS2: SE NÃO HOUVER INSTALAÇÃO DOS "PACOTES ESSENCIAIS", ENCONTRE-SE CORRETO QUE JÁ POSSUA OS PACOTES PARA QUE A INSTALAÇÃO DAS DEMAIS OPÇÕES SEJA FEITA CORRETAMENTE. 
 
 
 ## EMULAÇÃO DE NUCLEOS PARALELOS
